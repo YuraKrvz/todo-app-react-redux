@@ -1,0 +1,9 @@
+.listTask__wrapper{
+   list-style: none;
+}
+.throw__text{
+   text-decoration: line-through;
+}
+.notThrow__text{
+   text-decoration: none;
+}
