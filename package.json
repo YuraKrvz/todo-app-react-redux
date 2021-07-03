@@ -1,6 +1,7 @@
 {
   "name": "todo-app-react-redux-bootstrap",
   "version": "0.1.0",
+  "homepage": "https://yurakrvz.github.io/todo-app-react-redux-bootstrap/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
